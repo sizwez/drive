@@ -1,0 +1,7 @@
+{
+  "name": "K53 Master: South Africa",
+  "description": "Comprehensive study guide and practice tests for the official South African K53 learner's license exam. Features interactive road signs, expert rules of the road, and an AI-powered K53 tutor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
